@@ -12,25 +12,25 @@ These sites are helpful in encoding and decoding various ciphers. Boxentriq is p
 
 # Range Of Tools
 * Disassembly, Reverse Engineering, and Debugging
- * Ghidra - https://ghidra-sre.org/
- * IDA - https://www.hex-rays.com/products/ida/
- * GDB - https://www.gnu.org/software/gdb/documentation/
- * https://www.immunityinc.com/products/debugger/
+  * Ghidra - https://ghidra-sre.org/
+  * IDA - https://www.hex-rays.com/products/ida/
+  * GDB - https://www.gnu.org/software/gdb/documentation/
+  * https://www.immunityinc.com/products/debugger/
 
 * Stegonography
- * A range of stego tools - https://github.com/DominicBreuker/stego-toolkit
- * InvisibleInk - http://diit.sourceforge.net/
+  * A range of stego tools - https://github.com/DominicBreuker/stego-toolkit
+  * InvisibleInk - http://diit.sourceforge.net/
 
 * Decompilers
- * Java - https://jitpack.io/p/java-decompiler/jd-gui
- * Python - https://pypi.org/project/uncompyle6/
- * Binary - https://retdec.com/
+  * Java - https://jitpack.io/p/java-decompiler/jd-gui
+  * Python - https://pypi.org/project/uncompyle6/
+  * Binary - https://retdec.com/
 
 * Network Forensic
- * NetworkMiner - https://www.netresec.com/?page=NetworkMiner
- * Wireshark - https://www.wireshark.org/
- * Termshark - https://github.com/gcla/termshark
- * 
+  * NetworkMiner - https://www.netresec.com/?page=NetworkMiner
+  * Wireshark - https://www.wireshark.org/
+  * Termshark - https://github.com/gcla/termshark
+ 
 
 # Log Analysis
 Analyzing logs can be a very tedious task, especially, when you're dealing with thousands of events in a single log. Below is a compilation of useful Linux command line tools that can help you parse out exactly what you're looking for.
