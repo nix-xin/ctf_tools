@@ -1,7 +1,7 @@
 # ctf_tools
 An uncurated list and references to popular open source cybersecurity and network analysis tools. I rely heavily on these for teaching or instructing, and  online CTF competitions.
 
-# Popular Crytography Web Applications
+# Popular Cryptography Sites
 These sites are helpful in encoding and decoding various ciphers. Boxentriq is pretty good at analyzing ciphers if you're not quite sure what it is.
 * https://gchq.github.io/CyberChef/
 * http://rumkin.com/tools/cipher/
@@ -9,6 +9,28 @@ These sites are helpful in encoding and decoding various ciphers. Boxentriq is p
 * https://www.dcode.fr/
 * https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 * https://github.com/Ciphey/Ciphey
+
+# Range Of Tools
+* Disassembly, Reverse Engineering, and Debugging
+ * Ghidra - https://ghidra-sre.org/
+ * IDA - https://www.hex-rays.com/products/ida/
+ * GDB - https://www.gnu.org/software/gdb/documentation/
+ * https://www.immunityinc.com/products/debugger/
+
+* Stegonography
+ * A range of stego tools - https://github.com/DominicBreuker/stego-toolkit
+ * InvisibleInk - http://diit.sourceforge.net/
+
+* Decompilers
+ * Java - https://jitpack.io/p/java-decompiler/jd-gui
+ * Python - https://pypi.org/project/uncompyle6/
+ * Binary - https://retdec.com/
+
+* Network Forensic
+ * NetworkMiner - https://www.netresec.com/?page=NetworkMiner
+ * Wireshark - https://www.wireshark.org/
+ * Termshark - https://github.com/gcla/termshark
+ * 
 
 # Log Analysis
 Analyzing logs can be a very tedious task, especially, when you're dealing with thousands of events in a single log. Below is a compilation of useful Linux command line tools that can help you parse out exactly what you're looking for.
